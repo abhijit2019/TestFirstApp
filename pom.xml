@@ -118,6 +118,7 @@
 				<configuration>
 					<port>8082</port>
 					<path>/CounterWebApp</path>
+					<Name>Abhijit</Name>
 				</configuration>
 			</plugin>
 		</plugins>
